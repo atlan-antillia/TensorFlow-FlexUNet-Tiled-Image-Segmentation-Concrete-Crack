@@ -211,7 +211,7 @@ patience      = 10
 [tiledinfer] 
 overlapping   = 128
 images_dir    = "./mini_test/images/"
-output_dir    = "
+output_dir    = "./mini_test_output_tiled/"
 </pre>
 <b>RGB Color map</b><br>
 rgb color map dict for Concrete-Crack 1+1 classes.
@@ -302,7 +302,7 @@ python ../../../src/TensorFlowFlexUNetTiledInferencer.py ./train_eval_infer.conf
 <hr>
 <b>mini_test_images</b><br>
 <img src="./projects/TensorFlowFlexUNet/Tiled-Concrete-Crack/asset/mini_test_images.png" width="1024" height="auto"><br>
-<b>mini_test_mask(ground_truth)</b><br>
+<b>mini_test_masks(ground_truths)</b><br>
 <img src="./projects/TensorFlowFlexUNet/Tiled-Concrete-Crack/asset/mini_test_masks.png" width="1024" height="auto"><br>
 
 <hr>
@@ -311,7 +311,7 @@ python ../../../src/TensorFlowFlexUNetTiledInferencer.py ./train_eval_infer.conf
 <img src="./projects/TensorFlowFlexUNet/Tiled-Concrete-Crack/asset/mini_test_output_tiled.png" width="1024" height="auto"><br>
 <br>
 <hr>
-<b>Enlarged images and masks for Images of 4032x3024 pixels </b><br>
+<b>Enlarged images and masks for images of 4032x3024 pixels </b><br>
 
 <table>
 <tr>
