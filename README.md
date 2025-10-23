@@ -39,7 +39,7 @@ We trained and validated the TensorFlowFlexUNet model by using the Tiled-Concret
 <br>
 <br>
 <b>3. Tiled Image Segmentation</b><br>
-We applied our Tiled-Image Segmentation Inference method to predict crack regionns for the mini_test images of the original 
+We applied our Tiled-Image Segmentation Inference method to predict crack regions for the mini_test images of the original 
 high resolution .<br><br>
 For a typical example of the Tiled-Image-Segmentation, 
 please see also <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Tiled-Image-Segmentation-IDRiD">TensorFlow-FlexUNet-Tiled-Image-Segmentation-IDRiD</a>
